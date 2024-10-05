@@ -12,7 +12,7 @@ A **React** application that turns inspirational quotes into beautiful, shareabl
 
 ## 📸 Demo
 
-<a href="https://ibb.co/59N0sx0"><img src="https://i.ibb.co/YWzCfTC/Screenshot-2024-10-06-005914.png" alt="Screenshot-2024-10-06-005914" border="0" /></a>
+<a href="[https://ibb.co/59N0sx0](https://xaviquote.netlify.app/)"><img src="https://i.ibb.co/YWzCfTC/Screenshot-2024-10-06-005914.png" alt="Screenshot-2024-10-06-005914" border="0" /></a>
 
 ## 🚀 Getting Started
 
